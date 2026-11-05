@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430" role="img" aria-label="Archive coverage by review policy vs a random-selection baseline">
+<rect width="860" height="430" fill="#ffffff"/>
+<text x="24" y="34" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">Archive coverage by review policy vs a random-selection baseline</text>
+<line x1="141.0" y1="92" x2="141.0" y2="354" stroke="#eaeef2" stroke-width="1"/>
+<text x="141.0" y="374" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">0%</text>
+<line x1="301.8" y1="92" x2="301.8" y2="354" stroke="#eaeef2" stroke-width="1"/>
+<text x="301.8" y="374" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">25%</text>
+<line x1="462.5" y1="92" x2="462.5" y2="354" stroke="#eaeef2" stroke-width="1"/>
+<text x="462.5" y="374" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">50%</text>
+<line x1="623.2" y1="92" x2="623.2" y2="354" stroke="#eaeef2" stroke-width="1"/>
+<text x="623.2" y="374" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">75%</text>
+<line x1="784.0" y1="92" x2="784.0" y2="354" stroke="#eaeef2" stroke-width="1"/>
+<text x="784.0" y="374" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">100%</text>
+<line x1="141" y1="354" x2="784" y2="354" stroke="#8c959f" stroke-width="1.2"/>
+<text x="462.5" y="412" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">Share of the 40 conflicting pairs archived</text>
+<rect x="141" y="107.7" width="1.5" height="34.1" fill="#8c959f" rx="3"/>
+<text x="129" y="132.2" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">No review</text>
+<text x="149.0" y="132.2" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2328">0.0%</text>
+<rect x="141" y="173.2" width="1.5" height="34.1" fill="#cf222e" rx="3"/>
+<text x="129" y="197.7" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">Recency first</text>
+<text x="149.0" y="197.7" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2328">0.0%</text>
+<rect x="141" y="238.7" width="286.7" height="34.1" fill="#1f6feb" rx="3"/>
+<text x="129" y="263.2" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">Importance first</text>
+<text x="435.7" y="263.2" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2328">44.6%</text>
+<rect x="141" y="304.2" width="337.6" height="34.1" fill="#1a7f37" rx="3"/>
+<text x="129" y="328.7" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">Decay first</text>
+<text x="486.6" y="328.7" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2328">52.5%</text>
+<line x1="388.3" y1="76" x2="388.3" y2="354" stroke="#6e7781" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="396.3" y="68" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">uniform random selection</text>
+</svg>

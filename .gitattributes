@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+# The result files are UTF-8 with a BOM because Excel on Windows needs it to open
+# them correctly. Keep them binary-safe for git so a round-trip does not strip it.
+data/**/*.csv -text
+data/corpus/*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.svg text eol=lf
+
+*.pdf binary

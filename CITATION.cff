@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the paper and this repository."
+title: "memdec: reproducibility artifact for 'Decidability Before Maintenance'"
+abstract: >-
+  Data, measurement scripts and analysis code for a study of how LLM agents pick
+  between conflicting memory records. The artifact recomputes every number in the
+  manuscript from shipped condition files, and adds diagnostics the manuscript's
+  own tables omit: exact binomial intervals, effective sample size, and the
+  archive-coverage identity.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-11-04"
+authors:
+  - given-names: Han
+    family-names: Li
+    email: 2499371088@qq.com
+    affiliation: "Chengdu Technological University"
+repository-code: "https://github.com/tatusi285/memory-decidability"
+keywords:
+  - LLM agents
+  - long-term memory
+  - memory maintenance
+  - position bias
+  - evaluation
+  - reproducibility

@@ -1,0 +1,33 @@
+# Generated analysis output. Everything here can be rebuilt with `python -m memdec build`.
+analysis_out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local run output. Anchored with a leading slash on purpose: an unanchored `runs/`
+# pattern also matches `data/runs/`, which would silently exclude every shipped
+# condition file from the repository.
+/out/
+/runs/
+*.log
+
+# Secrets: never commit a key, and never paste one into a notebook cell
+.env
+.env.*
+*.key
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

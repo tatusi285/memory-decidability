@@ -1,0 +1,38 @@
+﻿运行目录,模型,供应商,endpoint,链数,种子,延迟,时间表示,上下文顺序,表述风格,策略,填充,语料,探针数,备注
+out_live_date,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",date,newest_first,template,4 种,无,合成,1920,表1/表2/图1 主网格
+out_live_date_rev,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",date,oldest_first,template,4 种,无,合成,1920,表1
+out_live,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",day,newest_first,template,4 种,无,合成,1920,表1 相对记法
+out_live_bare,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,template,4 种,无,合成,1920,表1/表2/表4/图1 核心条件
+out_live_bare_rev,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,oldest_first,template,4 种,无,合成,1920,表1/表2/图1
+out_nat_bare_new,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,natural,4 种,无,合成,1920,自然表述对照组
+out_nat_bare_old,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,oldest_first,natural,4 种,无,合成,1920,自然表述对照组
+out_nat_bare_rand,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,random,natural,4 种,无,合成,1920,随机顺序（34.8%）
+out_nat_date_new,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",date,newest_first,natural,4 种,无,合成,1920,自然表述 + 日期
+out_uni_bare_new,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,4 种,无,合成,1920,表3 基线
+out_uni_bare_old,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,oldest_first,uniform,4 种,无,合成,1920,统一表述 + 旧在前
+out_uni_date_new,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",date,newest_first,uniform,4 种,无,合成,1920,统一表述 + 日期
+out_var_source,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,vary_source,4 种,无,合成,1920,表3 单一因素
+out_var_struct,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,vary_structure,4 种,无,合成,1920,表3 单一因素
+out_var_number,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,vary_number,4 种,无,合成,1920,表3 单一因素
+out_rsn_bare_new,deepseek-reasoner,DeepSeek 官方,https://api.deepseek.com/v1,30,2,"1,7,30,90",bare,newest_first,template,4 种,无,合成,960,表2；max_tokens=800
+out_rsn_date_new,deepseek-reasoner,DeepSeek 官方,https://api.deepseek.com/v1,30,2,"1,7,30,90",date,newest_first,template,4 种,无,合成,960,表2；max_tokens=800
+out_glm_bare_new,glm-4-flash,智谱,https://open.bigmodel.cn/api/paas/v4,30,2,"1,7,30,90",bare,newest_first,template,4 种,无,合成,960,表2/表3 基线
+out_glm_bare_old,glm-4-flash,智谱,https://open.bigmodel.cn/api/paas/v4,30,2,"1,7,30,90",bare,oldest_first,template,4 种,无,合成,960,表2
+out_glm_date_new,glm-4-flash,智谱,https://open.bigmodel.cn/api/paas/v4,30,2,"1,7,30,90",date,newest_first,template,4 种,无,合成,960,表2
+out_glmplus_bare_new,glm-4-plus,智谱,https://open.bigmodel.cn/api/paas/v4,40,3,"1,7,30,90",bare,newest_first,template,4 种,无,合成,1920,表2
+out_glmplus_bare_old,glm-4-plus,智谱,https://open.bigmodel.cn/api/paas/v4,40,3,"1,7,30,90",bare,oldest_first,template,4 种,无,合成,1920,表2
+out_glmplus_date_new,glm-4-plus,智谱,https://open.bigmodel.cn/api/paas/v4,40,3,"1,7,30,90",date,newest_first,template,4 种,无,合成,1920,表2
+out_glm_var_source,glm-4-flash,智谱,https://open.bigmodel.cn/api/paas/v4,40,3,"1,7,30,90",bare,newest_first,vary_source,4 种,无,合成,1920,表3
+out_glm_var_struct,glm-4-flash,智谱,https://open.bigmodel.cn/api/paas/v4,40,3,"1,7,30,90",bare,newest_first,vary_structure,4 种,无,合成,1920,表3
+out_glm_var_number,glm-4-flash,智谱,https://open.bigmodel.cn/api/paas/v4,40,3,"1,7,30,90",bare,newest_first,vary_number,4 种,无,合成,1920,表3
+out_real_bare_new,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,13,3,"1,7,30,90",bare,newest_first,template,4 种,无,真实日志,624,表2；真实语料
+out_real_bare_old,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,13,3,"1,7,30,90",bare,oldest_first,template,4 种,无,真实日志,624,表2
+out_real_date_new,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,13,3,"1,7,30,90",date,newest_first,template,4 种,无,真实日志,624,表2
+out_fill2_tail_0,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,尾部 k=0,合成,480,图2/4.6 节
+out_fill2_tail_1,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,尾部 k=1,合成,480,图2/4.6 节
+out_fill2_tail_2,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,尾部 k=2,合成,480,图2/4.6 节
+out_fill2_tail_4,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,尾部 k=4,合成,480,图2/4.6 节
+out_fill2_tail_8,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,尾部 k=8,合成,480,图2/4.6 节
+out_fill2_tail_16,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,尾部 k=16,合成,480,图2/4.6 节
+out_fill2_gap_1,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,间隔 k=1,合成,480,图2/4.6 节
+out_fill2_gap_8,deepseek-chat,DeepSeek 官方,https://api.deepseek.com/v1,40,3,"1,7,30,90",bare,newest_first,uniform,仅 none,间隔 k=8,合成,480,图2/4.6 节

@@ -1,0 +1,132 @@
+[
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "49673",
+  "new_value": "54515",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:49673\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:54515\"。",
+  "old_date": "2026-10-25",
+  "new_date": "2026-10-25"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "54515",
+  "new_value": "56239",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:54515\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:56239\"。",
+  "old_date": "2026-10-25",
+  "new_date": "2026-10-26"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "56239",
+  "new_value": "49672",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:56239\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:49672\"。",
+  "old_date": "2026-10-26",
+  "new_date": "2026-10-26"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "49672",
+  "new_value": "50384",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:49672\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:50384\"。",
+  "old_date": "2026-10-26",
+  "new_date": "2026-10-28"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "50384",
+  "new_value": "65496",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:50384\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:65496\"。",
+  "old_date": "2026-10-28",
+  "new_date": "2026-10-28"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "65496",
+  "new_value": "61664",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:65496\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:61664\"。",
+  "old_date": "2026-10-28",
+  "new_date": "2026-10-29"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "61664",
+  "new_value": "61008",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:61664\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:61008\"。",
+  "old_date": "2026-10-29",
+  "new_date": "2026-10-29"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "61008",
+  "new_value": "18264",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:61008\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:18264\"。",
+  "old_date": "2026-10-29",
+  "new_date": "2026-10-30"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "18264",
+  "new_value": "53554",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:18264\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:53554\"。",
+  "old_date": "2026-10-30",
+  "new_date": "2026-10-30"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "53554",
+  "new_value": "49761",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:53554\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:49761\"。",
+  "old_date": "2026-10-30",
+  "new_date": "2026-10-31"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "49761",
+  "new_value": "65202",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:49761\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:65202\"。",
+  "old_date": "2026-10-31",
+  "new_date": "2026-11-01"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "65202",
+  "new_value": "56694",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:65202\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:56694\"。",
+  "old_date": "2026-11-01",
+  "new_date": "2026-11-02"
+ },
+ {
+  "entity": "Web GUI",
+  "attr": "端口",
+  "old_value": "56694",
+  "new_value": "62754",
+  "old_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:56694\"。",
+  "new_text": "运行环境提示：Current DeepSeek Harness Web GUI URL: \"http://127.0.0.1:62754\"。",
+  "old_date": "2026-11-02",
+  "new_date": "2026-11-03"
+ }
+]

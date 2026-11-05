@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How to reproduce the results
+    url: https://github.com/tatusi285/memory-decidability/blob/main/docs/REPRODUCING.md
+    about: Consistency check, deterministic replay, and the commands to re-run a condition.
+  - name: What the audit found
+    url: https://github.com/tatusi285/memory-decidability/blob/main/docs/REVIEW.md
+    about: Read this before reporting a claim as wrong — it may already be listed as disputed.
